@@ -1,0 +1,74 @@
+{
+    "100_10_30_ArcFace_lowkey_None": {
+        "Index": 16,
+        "Epsilon": 3.2581,
+        "x' original": 0.8666666666666667,
+        "x' mod": 0.03333333333333333,
+        "Max originals": 0.9666666666666667,
+        "Min originals": 0.3,
+        "Avg originals": 0.7730639730639732,
+        "Max mod": 0.9666666666666667,
+        "Min mod": 0.3,
+        "Avg mod": 0.7730639730639732
+    },
+    "100_10_30_ArcFace_clean": {
+        "Index": 0,
+        "Epsilon": 3.4012,
+        "x' original": 1.0,
+        "x' mod": 0.03333333333333333,
+        "Max originals": 1.0,
+        "Min originals": 0.7,
+        "Avg originals": 0.952861952861953,
+        "Max mod": 1.0,
+        "Min mod": 0.7,
+        "Avg mod": 0.952861952861953
+    },
+    "100_10_30_Facenet_clean": {
+        "Index": 0,
+        "Epsilon": 3.4012,
+        "x' original": 1.0,
+        "x' mod": 0.03333333333333333,
+        "Max originals": 1.0,
+        "Min originals": 0.5333333333333333,
+        "Avg originals": 0.9356902356902359,
+        "Max mod": 1.0,
+        "Min mod": 0.5333333333333333,
+        "Avg mod": 0.9356902356902359
+    },
+    "100_10_30_Facenet_lowkey_None": {
+        "Index": 26,
+        "Epsilon": 3.3322,
+        "x' original": 0.9333333333333333,
+        "x' mod": 0.03333333333333333,
+        "Max originals": 1.0,
+        "Min originals": 0.36666666666666664,
+        "Avg originals": 0.6966329966329965,
+        "Max mod": 1.0,
+        "Min mod": 0.36666666666666664,
+        "Avg mod": 0.6959595959595959
+    },
+    "100_10_30_GhostFaceNet_lowkey_None": {
+        "Index": 92,
+        "Epsilon": 3.1781,
+        "x' original": 0.8,
+        "x' mod": 0.03333333333333333,
+        "Max originals": 0.9666666666666667,
+        "Min originals": 0.26666666666666666,
+        "Avg originals": 0.7538720538720539,
+        "Max mod": 0.9666666666666667,
+        "Min mod": 0.26666666666666666,
+        "Avg mod": 0.7538720538720539
+    },
+    "100_10_30_GhostFaceNet_clean": {
+        "Index": 11,
+        "Epsilon": 3.4012,
+        "x' original": 1.0,
+        "x' mod": 0.03333333333333333,
+        "Max originals": 1.0,
+        "Min originals": 0.5,
+        "Avg originals": 0.9309764309764311,
+        "Max mod": 1.0,
+        "Min mod": 0.5,
+        "Avg mod": 0.9309764309764311
+    }
+}

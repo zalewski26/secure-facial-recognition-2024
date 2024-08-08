@@ -1,0 +1,362 @@
+{
+    "10_10_30_Facenet_clean": {
+        "Base Accuracy": 0.9567,
+        "Distant Accuracy": 0.9737,
+        "Sensitivity": 0.017
+    },
+    "10_10_30_Facenet_blur_15": {
+        "Base Accuracy": 0.7717,
+        "Distant Accuracy": 0.7912,
+        "Sensitivity": 0.0196
+    },
+    "10_10_30_Facenet_permute_32": {
+        "Base Accuracy": 0.3167,
+        "Distant Accuracy": 0.3491,
+        "Sensitivity": 0.0325
+    },
+    "10_10_30_Facenet_fawkes_low": {
+        "Base Accuracy": 0.8783,
+        "Distant Accuracy": 0.8965,
+        "Sensitivity": 0.0182
+    },
+    "10_10_30_Facenet_fawkes_mid": {
+        "Base Accuracy": 0.7333,
+        "Distant Accuracy": 0.7632,
+        "Sensitivity": 0.0298
+    },
+    "10_10_30_Facenet_fawkes_high": {
+        "Base Accuracy": 0.73,
+        "Distant Accuracy": 0.7719,
+        "Sensitivity": 0.0419
+    },
+    "10_10_30_Facenet_lowkey_None": {
+        "Base Accuracy": 0.7667,
+        "Distant Accuracy": 0.7877,
+        "Sensitivity": 0.0211
+    },
+    "10_10_30_Facenet_style_vangogh": {
+        "Base Accuracy": 0.7067,
+        "Distant Accuracy": 0.7421,
+        "Sensitivity": 0.0354
+    },
+    "10_10_30_ArcFace_clean": {
+        "Base Accuracy": 0.9717,
+        "Distant Accuracy": 0.9789,
+        "Sensitivity": 0.0073
+    },
+    "10_10_30_ArcFace_blur_15": {
+        "Base Accuracy": 0.9133,
+        "Distant Accuracy": 0.9333,
+        "Sensitivity": 0.02
+    },
+    "10_10_30_ArcFace_permute_32": {
+        "Base Accuracy": 0.3083,
+        "Distant Accuracy": 0.3246,
+        "Sensitivity": 0.0162
+    },
+    "10_10_30_ArcFace_fawkes_low": {
+        "Base Accuracy": 0.91,
+        "Distant Accuracy": 0.9281,
+        "Sensitivity": 0.0181
+    },
+    "10_10_30_ArcFace_fawkes_mid": {
+        "Base Accuracy": 0.8083,
+        "Distant Accuracy": 0.8474,
+        "Sensitivity": 0.039
+    },
+    "10_10_30_ArcFace_fawkes_high": {
+        "Base Accuracy": 0.7917,
+        "Distant Accuracy": 0.8281,
+        "Sensitivity": 0.0364
+    },
+    "10_10_30_ArcFace_lowkey_None": {
+        "Base Accuracy": 0.815,
+        "Distant Accuracy": 0.8561,
+        "Sensitivity": 0.0411
+    },
+    "10_10_30_ArcFace_style_vangogh": {
+        "Base Accuracy": 0.3783,
+        "Distant Accuracy": 0.4123,
+        "Sensitivity": 0.0339
+    },
+    "10_10_30_GhostFaceNet_clean": {
+        "Base Accuracy": 0.9317,
+        "Distant Accuracy": 0.9509,
+        "Sensitivity": 0.0192
+    },
+    "10_10_30_GhostFaceNet_blur_15": {
+        "Base Accuracy": 0.865,
+        "Distant Accuracy": 0.8842,
+        "Sensitivity": 0.0192
+    },
+    "10_10_30_GhostFaceNet_permute_32": {
+        "Base Accuracy": 0.3383,
+        "Distant Accuracy": 0.3772,
+        "Sensitivity": 0.0389
+    },
+    "10_10_30_GhostFaceNet_fawkes_low": {
+        "Base Accuracy": 0.9,
+        "Distant Accuracy": 0.9193,
+        "Sensitivity": 0.0193
+    },
+    "10_10_30_GhostFaceNet_fawkes_mid": {
+        "Base Accuracy": 0.8417,
+        "Distant Accuracy": 0.8684,
+        "Sensitivity": 0.0268
+    },
+    "10_10_30_GhostFaceNet_fawkes_high": {
+        "Base Accuracy": 0.825,
+        "Distant Accuracy": 0.8509,
+        "Sensitivity": 0.0259
+    },
+    "10_10_30_GhostFaceNet_lowkey_None": {
+        "Base Accuracy": 0.7717,
+        "Distant Accuracy": 0.8,
+        "Sensitivity": 0.0283
+    },
+    "10_10_30_GhostFaceNet_style_vangogh": {
+        "Base Accuracy": 0.72,
+        "Distant Accuracy": 0.7667,
+        "Sensitivity": 0.0467
+    },
+    "50_10_30_Facenet_clean": {
+        "Base Accuracy": 0.952,
+        "Distant Accuracy": 0.9586,
+        "Sensitivity": 0.0066
+    },
+    "50_10_30_Facenet_blur_15": {
+        "Base Accuracy": 0.7257,
+        "Distant Accuracy": 0.7343,
+        "Sensitivity": 0.0087
+    },
+    "50_10_30_Facenet_permute_32": {
+        "Base Accuracy": 0.2817,
+        "Distant Accuracy": 0.2882,
+        "Sensitivity": 0.0065
+    },
+    "50_10_30_Facenet_fawkes_low": {
+        "Base Accuracy": 0.8303,
+        "Distant Accuracy": 0.8424,
+        "Sensitivity": 0.0121
+    },
+    "50_10_30_Facenet_fawkes_mid": {
+        "Base Accuracy": 0.7017,
+        "Distant Accuracy": 0.7111,
+        "Sensitivity": 0.0094
+    },
+    "50_10_30_Facenet_fawkes_high": {
+        "Base Accuracy": 0.6693,
+        "Distant Accuracy": 0.6781,
+        "Sensitivity": 0.0088
+    },
+    "50_10_30_Facenet_lowkey_None": {
+        "Base Accuracy": 0.6777,
+        "Distant Accuracy": 0.6879,
+        "Sensitivity": 0.0102
+    },
+    "50_10_30_Facenet_style_vangogh": {
+        "Base Accuracy": 0.574,
+        "Distant Accuracy": 0.5879,
+        "Sensitivity": 0.0139
+    },
+    "50_10_30_ArcFace_clean": {
+        "Base Accuracy": 0.9653,
+        "Distant Accuracy": 0.9603,
+        "Sensitivity": 0.0051
+    },
+    "50_10_30_ArcFace_blur_15": {
+        "Base Accuracy": 0.9113,
+        "Distant Accuracy": 0.9155,
+        "Sensitivity": 0.0042
+    },
+    "50_10_30_ArcFace_permute_32": {
+        "Base Accuracy": 0.3533,
+        "Distant Accuracy": 0.3589,
+        "Sensitivity": 0.0056
+    },
+    "50_10_30_ArcFace_fawkes_low": {
+        "Base Accuracy": 0.89,
+        "Distant Accuracy": 0.8983,
+        "Sensitivity": 0.0083
+    },
+    "50_10_30_ArcFace_fawkes_mid": {
+        "Base Accuracy": 0.7557,
+        "Distant Accuracy": 0.766,
+        "Sensitivity": 0.0103
+    },
+    "50_10_30_ArcFace_fawkes_high": {
+        "Base Accuracy": 0.746,
+        "Distant Accuracy": 0.7589,
+        "Sensitivity": 0.0129
+    },
+    "50_10_30_ArcFace_lowkey_None": {
+        "Base Accuracy": 0.768,
+        "Distant Accuracy": 0.7758,
+        "Sensitivity": 0.0078
+    },
+    "50_10_30_ArcFace_style_vangogh": {
+        "Base Accuracy": 0.4047,
+        "Distant Accuracy": 0.4118,
+        "Sensitivity": 0.0071
+    },
+    "50_10_30_GhostFaceNet_clean": {
+        "Base Accuracy": 0.9257,
+        "Distant Accuracy": 0.9327,
+        "Sensitivity": 0.007
+    },
+    "50_10_30_GhostFaceNet_blur_15": {
+        "Base Accuracy": 0.8593,
+        "Distant Accuracy": 0.8673,
+        "Sensitivity": 0.008
+    },
+    "50_10_30_GhostFaceNet_permute_32": {
+        "Base Accuracy": 0.3167,
+        "Distant Accuracy": 0.2966,
+        "Sensitivity": 0.02
+    },
+    "50_10_30_GhostFaceNet_fawkes_low": {
+        "Base Accuracy": 0.871,
+        "Distant Accuracy": 0.8798,
+        "Sensitivity": 0.0088
+    },
+    "50_10_30_GhostFaceNet_fawkes_mid": {
+        "Base Accuracy": 0.7953,
+        "Distant Accuracy": 0.8024,
+        "Sensitivity": 0.007
+    },
+    "50_10_30_GhostFaceNet_fawkes_high": {
+        "Base Accuracy": 0.7947,
+        "Distant Accuracy": 0.8061,
+        "Sensitivity": 0.0114
+    },
+    "50_10_30_GhostFaceNet_lowkey_None": {
+        "Base Accuracy": 0.7443,
+        "Distant Accuracy": 0.7525,
+        "Sensitivity": 0.0082
+    },
+    "50_10_30_GhostFaceNet_style_vangogh": {
+        "Base Accuracy": 0.6727,
+        "Distant Accuracy": 0.6633,
+        "Sensitivity": 0.0094
+    },
+    "100_10_30_Facenet_clean": {
+        "Base Accuracy": 0.937,
+        "Distant Accuracy": 0.9338,
+        "Sensitivity": 0.0032
+    },
+    "100_10_30_Facenet_blur_15": {
+        "Base Accuracy": 0.6725,
+        "Distant Accuracy": 0.6769,
+        "Sensitivity": 0.0044
+    },
+    "100_10_30_Facenet_permute_32": {
+        "Base Accuracy": 0.2608,
+        "Distant Accuracy": 0.2633,
+        "Sensitivity": 0.0025
+    },
+    "100_10_30_Facenet_fawkes_low": {
+        "Base Accuracy": 0.8045,
+        "Distant Accuracy": 0.8092,
+        "Sensitivity": 0.0047
+    },
+    "100_10_30_Facenet_fawkes_mid": {
+        "Base Accuracy": 0.6217,
+        "Distant Accuracy": 0.6263,
+        "Sensitivity": 0.0046
+    },
+    "100_10_30_Facenet_fawkes_high": {
+        "Base Accuracy": 0.5922,
+        "Distant Accuracy": 0.5965,
+        "Sensitivity": 0.0043
+    },
+    "100_10_30_Facenet_lowkey_None": {
+        "Base Accuracy": 0.6275,
+        "Distant Accuracy": 0.6327,
+        "Sensitivity": 0.0052
+    },
+    "100_10_30_Facenet_style_vangogh": {
+        "Base Accuracy": 0.5202,
+        "Distant Accuracy": 0.5246,
+        "Sensitivity": 0.0045
+    },
+    "100_10_30_ArcFace_clean": {
+        "Base Accuracy": 0.9532,
+        "Distant Accuracy": 0.9554,
+        "Sensitivity": 0.0023
+    },
+    "100_10_30_ArcFace_blur_15": {
+        "Base Accuracy": 0.8943,
+        "Distant Accuracy": 0.8906,
+        "Sensitivity": 0.0037
+    },
+    "100_10_30_ArcFace_permute_32": {
+        "Base Accuracy": 0.3343,
+        "Distant Accuracy": 0.3367,
+        "Sensitivity": 0.0024
+    },
+    "100_10_30_ArcFace_fawkes_low": {
+        "Base Accuracy": 0.8505,
+        "Distant Accuracy": 0.8546,
+        "Sensitivity": 0.0041
+    },
+    "100_10_30_ArcFace_fawkes_mid": {
+        "Base Accuracy": 0.7035,
+        "Distant Accuracy": 0.7082,
+        "Sensitivity": 0.0047
+    },
+    "100_10_30_ArcFace_fawkes_high": {
+        "Base Accuracy": 0.6893,
+        "Distant Accuracy": 0.7032,
+        "Sensitivity": 0.0138
+    },
+    "100_10_30_ArcFace_lowkey_None": {
+        "Base Accuracy": 0.7398,
+        "Distant Accuracy": 0.7434,
+        "Sensitivity": 0.0036
+    },
+    "100_10_30_ArcFace_style_vangogh": {
+        "Base Accuracy": 0.38,
+        "Distant Accuracy": 0.3822,
+        "Sensitivity": 0.0022
+    },
+    "100_10_30_GhostFaceNet_clean": {
+        "Base Accuracy": 0.9227,
+        "Distant Accuracy": 0.9258,
+        "Sensitivity": 0.0031
+    },
+    "100_10_30_GhostFaceNet_blur_15": {
+        "Base Accuracy": 0.8322,
+        "Distant Accuracy": 0.8397,
+        "Sensitivity": 0.0075
+    },
+    "100_10_30_GhostFaceNet_permute_32": {
+        "Base Accuracy": 0.2895,
+        "Distant Accuracy": 0.2928,
+        "Sensitivity": 0.0033
+    },
+    "100_10_30_GhostFaceNet_fawkes_low": {
+        "Base Accuracy": 0.8477,
+        "Distant Accuracy": 0.8518,
+        "Sensitivity": 0.0041
+    },
+    "100_10_30_GhostFaceNet_fawkes_mid": {
+        "Base Accuracy": 0.7653,
+        "Distant Accuracy": 0.7693,
+        "Sensitivity": 0.004
+    },
+    "100_10_30_GhostFaceNet_fawkes_high": {
+        "Base Accuracy": 0.7408,
+        "Distant Accuracy": 0.7456,
+        "Sensitivity": 0.0047
+    },
+    "100_10_30_GhostFaceNet_lowkey_None": {
+        "Base Accuracy": 0.7042,
+        "Distant Accuracy": 0.7168,
+        "Sensitivity": 0.0126
+    },
+    "100_10_30_GhostFaceNet_style_vangogh": {
+        "Base Accuracy": 0.6432,
+        "Distant Accuracy": 0.6556,
+        "Sensitivity": 0.0124
+    }
+}
